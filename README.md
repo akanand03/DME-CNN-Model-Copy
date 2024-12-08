@@ -1,4 +1,5 @@
 # Automatic Diabetic Macular Edema detection from Color Fundus Images
+<img width="1135" alt="Screenshot 2024-12-08 at 1 02 01 PM" src="https://github.com/user-attachments/assets/26301314-9854-4772-8709-2303b8556644">
 
 ## Introduction:
 Diabetic Macular Edema (DME) represents a major complication of diabetic retinopathy and is a leading cause of vision impairment and blindness among the diabetic population. 
